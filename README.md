@@ -1,4 +1,4 @@
-# Hi, I'm Sumeet 👋
+# Hi, I'm Medi Sumeet 👋
 
 ### Machine Learning | Deep Learning | Technical Writing
 
